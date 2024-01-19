@@ -105,3 +105,27 @@ body {
       }
 
 
+      .text-center {
+        background-color: white;
+        text-align: center!important;
+    }
+    .py-5 {
+        padding-top: 3rem!important;
+        padding-bottom: 3rem!important;
+        
+    }
+    .px-4 {
+        padding-right: 1.5rem!important;
+        padding-left: 1.5rem!important;
+        
+    }
+
+    .display-5 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    .col-lg-6 {
+        font-size: 24px;
+        
+    }
