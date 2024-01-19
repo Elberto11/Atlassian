@@ -1,3 +1,12 @@
+body {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #091e42;
+
+  }
+
 .container {
     --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
@@ -6,6 +15,13 @@
     padding-left: calc(var(--bs-gutter-x) * .5);
     margin-right: auto;
     margin-left: auto;
+    background-color: white;
+    
+
+}
+
+.container-2 {
+    background-color: #253858;
 }
 
 .button-signup {
@@ -26,6 +42,66 @@
 .truth-3 {
     margin-right: 20rem;
 }
+      
+      .left-jira-software {
+    float: left;
+    margin-right: 10px;
+  }
 
+
+
+  .center-container {
+      text-align: center;
+      
+  }
+  
+  .btn-primary {
+      background-color: #57d9a3;
+      color: #253858;
+  }
+
+  .icon-templates {
+      background-color: #091e42;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .workflow-icon {
+    width: 400px; 
+    height: 50px;
+    margin: 0 40px; /* Adjust the margin between icons */
+  }
+
+  .row {
+  --bs-gutter-x: 3.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(-.5 * var(--bs-gutter-x));
+  }
+
+  .judul1 {
+      justify-content: center;
+      display:grid;
+      align-items: center;
+      background-color: #091e42;
+      color: white;
+  }
+
+  #forquote {
+      display: grid;
+      color: white;
+      font-size: 10px;
+  }
+
+  .center-image {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh; /* Adjust if necessary */
+      }
 
 
