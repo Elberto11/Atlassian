@@ -70,7 +70,7 @@ body {
   .workflow-icon {
     width: 400px; 
     height: 50px;
-    margin: 0 40px; /* Adjust the margin between icons */
+    margin: 0 40px; 
   }
 
   .row {
@@ -91,17 +91,30 @@ body {
       color: white;
   }
 
+  .col-lg-4 {
+    margin-left: 10px;
+    text-align: center;
+    margin-right: 200px;
+  }
+
   #forquote {
       display: grid;
       color: white;
       font-size: 10px;
+      margin-left: 5px;
   }
+
+  .quote-image {
+    float: left;
+    margin-left: 10px; 
+}
+
 
   .center-image {
           display: flex;
           justify-content: center;
           align-items: center;
-          height: 100vh; /* Adjust if necessary */
+          height: 100vh; 
       }
 
 
@@ -109,6 +122,21 @@ body {
         background-color: white;
         text-align: center!important;
     }
+
+    #relationships {
+        background-image: url('Images/brandbackground.png');
+        background-size:contain;
+        background-position:center;
+        background-repeat: no-repeat;
+        color: white;
+        padding: 100px; 
+    }
+    
+    #relationships h1 {
+        color: inherit;
+        font-size: 2rem;
+    }
+
     .py-5 {
         padding-top: 3rem!important;
         padding-bottom: 3rem!important;
@@ -127,5 +155,119 @@ body {
 
     .col-lg-6 {
         font-size: 24px;
-        
+      justify-content:center;
     }
+
+    .smaller-text {
+        font-size: 0.7em; 
+        color: black;
+        font-weight:500;
+    }
+    
+    
+.btn-3 {
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+    font-size: 14px; 
+    padding: 2px 8px; 
+    border-radius: 10px; 
+}
+
+.btn-3:hover {
+    color: #000;
+    background-color: transparent;
+}
+
+
+.container-3 .row .col-lg-6 {
+    text-align: center;
+}
+
+.container-3 .row {
+    display: flex;
+    align-items: center;
+}
+
+.container-3 .row .col-lg-6 button.btn-3 {
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.container-3 .row .col-lg-6 p.new-text {
+    margin-top: 10px;
+    font-size: 16px;
+    color: white;
+}
+
+.bigger-number {
+    font-size: 2em; 
+}
+
+.container-5 {
+    background-color: #fff;
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row-2 {
+    --bs-gutter-x: 3.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(1 * var(--bs-gutter-x));
+    background-color: white;
+}
+
+.row-white {
+    background-color: white;
+    --bs-gutter-x: 3.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(1 * var(--bs-gutter-x));
+}
+
+.col-white {
+    background-color: white;
+}
+
+.feature-images img {
+    width: 250px; 
+    height: auto; 
+}
+
+.for-feature-button {
+    font-size: medium;
+    color: #0065ff; 
+    background-color: transparent; 
+    border: none; 
+    padding: 8px 16px; 
+    border-radius: 10px; 
+}
+
+.for-feature-button:hover {
+    text-decoration: underline; 
+}
+
+.bi {
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+
+.svg-one {
+    width: 200px; 
+    height: 200px; 
+    margin-bottom: 10px; 
+}
+
+
