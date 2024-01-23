@@ -347,6 +347,7 @@ body {
 .justify-content-between {
     justify-content: space-between!important;
 }
+
 .flex-column {
     flex-direction: column!important;
 }
@@ -405,13 +406,11 @@ body {
 }
 
 
-
-
 .footer-column {
     margin-right: 20px;
   }
 
-  /* Updated styles for heading and list items */
+ 
   .footer-heading {
     font-size: 15px;
     font-weight: bold;
@@ -422,10 +421,16 @@ body {
     font-size: 10px;
   }
 
-  /* Added this CSS to make the columns align on the same line */
+
   .footer-content {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px; /* Adjust the gap as needed */
+    gap: 0px; 
   }
   
+  .custom-nav-item a {
+    color: #0052cc !important;
+    line-height: 1.125;
+    font-size: .875rem;
+}
+
