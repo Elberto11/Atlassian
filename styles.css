@@ -109,6 +109,16 @@ body {
     margin-left: 10px; 
 }
 
+#searchContainer {
+    position: relative;
+    display: inline-block;
+}
+
+#searchInput {
+    display: none;
+    position: absolute;
+    left: -150px; /* Sesuaikan dengan lebar input */
+}   
 
   .center-image {
           display: flex;

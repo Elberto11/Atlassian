@@ -72,6 +72,17 @@ document.addEventListener("DOMContentLoaded", function () {
     window.location.href = 'https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect';
 });
   
+const searchButton = document.getElementById('searchButton');
+    const searchInput = document.getElementById('searchInput');
+
+    searchButton.addEventListener('click', function () {
+        searchInput.style.display = 'inline-block';
+        searchInput.focus();
+    });
+
+    searchInput.addEventListener('blur', function () {
+        searchInput.style.display = 'none';
+    });
   
 //  below navbar
 document.addEventListener('DOMContentLoaded', function () {

@@ -61,13 +61,19 @@
               </li>
             
             </ul>
-            <button id="searchButton">
-              <span role="img" aria-label="Search" style="--icon-primary-color:currentColor;--icon-secondary-color:var(--ds-surface, #FFFFFF)" class="emotion-prefix-key-snhnyn">
-                <svg width="24" height="24" viewBox="0 0 24 24" role="presentation">
-                  <path d="M16.436 15.085l3.94 4.01a1 1 0 01-1.425 1.402l-3.938-4.006a7.5 7.5 0 111.423-1.406zM10.5 16a5.5 5.5 0 100-11 5.5 5.5 0 000 11z" fill="currentColor" fill-rule="evenodd"></path>
-                </svg>
-              </span>
-            </button>
+              
+            <div id="searchContainer">
+              <button id="searchButton">
+                  <span role="img" aria-label="Search" style="--icon-primary-color:currentColor;--icon-secondary-color:var(--ds-surface, #FFFFFF)" class="emotion-prefix-key-snhnyn">
+                      <svg width="24" height="24" viewBox="0 0 24 24" role="presentation">
+                          <path d="M16.436 15.085l3.94 4.01a1 1 0 01-1.425 1.402l-3.938-4.006a7.5 7.5 0 111.423-1.406zM10.5 16a5.5 5.5 0 100-11 5.5 5.5 0 000 11z" fill="currentColor" fill-rule="evenodd"></path>
+                      </svg>
+                  </span>
+              </button>
+          
+              <input type="text" id="searchInput" placeholder="Type here to search">
+          </div>
+
             <hr class="my-0 mx-2">
             <button class="btn btn-outline-primary" type="submit">Sign In</button>
           </div>
