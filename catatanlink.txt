@@ -1,0 +1,86 @@
+PRODUCTS
+
+Jira Software
+https://www.atlassian.com/software/jira
+Jira Align
+https://www.atlassian.com/software/jira/align
+Jira Service Management
+https://www.atlassian.com/software/jira/service-management
+Jira Product Discovery
+https://www.atlassian.com/software/jira/product-discovery
+Confluence
+https://www.atlassian.com/software/confluence
+Trello
+https://trello.com/home
+Bitbucket
+https://www.atlassian.com/software/bitbucket
+View all products
+https://www.atlassian.com/software
+
+RESOURCES
+
+Technical Support
+https://support.atlassian.com/
+Purchasing & licensing
+https://www.atlassian.com/licensing/purchase-licensing
+Atlassian Community
+https://community.atlassian.com/
+Knowledge base
+https://confluence.atlassian.com/kb
+Marketplace
+https://marketplace.atlassian.com/
+My Account
+https://id.atlassian.com/login?application=mac&continue=https://my.atlassian.com/products/index
+Create support ticket
+https://support.atlassian.com/contact/
+
+EXPAND & LEARN
+
+Partners
+https://support.atlassian.com/contact/
+Training & Certification
+https://www.atlassian.com/university
+Documentation
+https://confluence.atlassian.com/alldoc/atlassian-documentation-32243719.html
+Developer Resources
+https://www.atlassian.com/developers
+Enterprise services
+https://www.atlassian.com/enterprise/services
+View all resources
+https://www.atlassian.com/resources
+
+ABOUT ATLASSIAN
+
+Company
+https://www.atlassian.com/company
+Careers
+https://www.atlassian.com/company/careers
+Events
+https://www.atlassian.com/company/events
+Blogs
+https://www.atlassian.com/blog
+Atlassian Foundation
+https://www.atlassianfoundation.org/
+Investor Relations
+https://investors.atlassian.com/
+Trust & Security
+https://www.atlassian.com/trust
+Contact us
+https://www.atlassian.com/company/contact
+
+
+Privacy policy
+https://www.atlassian.com/legal/privacy-policy
+Terms
+https://www.atlassian.com/legal/cloud-terms-of-service
+Impressum
+https://www.atlassian.com/legal/impressum
+
+Facebook
+https://www.facebook.com/Atlassian
+twitter
+https://twitter.com/atlassian
+linkedin
+https://www.linkedin.com/company/atlassian
+youtube
+https://www.youtube.com/user/GoAtlassian

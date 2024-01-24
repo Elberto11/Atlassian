@@ -281,6 +281,10 @@ body {
     color: white;
 }
 
+.display-4 {
+    color: white!important;
+}
+
 .lead-for-p {
     text-align: left!important;
     color: white;
