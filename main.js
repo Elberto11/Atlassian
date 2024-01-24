@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 //   content 1
   document.addEventListener('DOMContentLoaded', function () {
-    var getItFreeButton = document.getElementById('getItFreeButton');
+    var getItFreeButton = document.getElementById('getItFreeButton3');
 
     
     var getItFreeURL = 'https://www.example.com/get-it-free';
